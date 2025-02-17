@@ -187,26 +187,30 @@ h3 {
   border-radius: .3em;;
 }
 
-.img-1 {
-  background-image: url/(https://img.freepik.com/psd-gratuitas/ilustracao-de-icone-de-contacto-isolada_23-2151903329.jpg?t=st=1736254829~exp=1736258429~hmac=ec24bb8c902fce9a5441adc646d694619942824e6157a8920b964a38a335857a&w=740);
+/* .img-1 {
+  background-image: url(https://img.freepik.com/psd-gratuitas/ilustracao-de-icone-de-contacto-isolada_23-2151903329.jpg?t=st=1736254829~exp=1736258429~hmac=ec24bb8c902fce9a5441adc646d694619942824e6157a8920b964a38a335857a&w=740);
 }
 
 .img-2 {
-  background-image:url/(file:///C:/Users/E37221/Downloads/application-programming-interface-animate.svg);
+  background-image: url(file:///C:/Users/E37221/Downloads/application-programming-interface-animate.svg)
   
 }
 
 .img-3 {
-  background-image: url/(img/faqs.png);
+  background-image: url(img/faqs.png);
 }
 
 .img-4 {
-  background-image: url/(img/faqs.png);
+  background-image: url(img/faqs.png);
 }
 
 .img-5 {
-  background-image: url/(img/faqs.png);
-}
+  background-image: url(img/faqs.png);
+} 
+  
+IMAGENS*/
+
+
 
 .second {
   flex-direction: row;
